@@ -1,6 +1,9 @@
 # Prototype- Multi-Modal_LLM
+<br>
 Model : quantized mistral 7b
+<br>
 Capabilities: 
+
   1. Chat with PDF
   2. Chat with Image
   3. Chat with Audio file
