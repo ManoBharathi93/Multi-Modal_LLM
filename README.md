@@ -10,3 +10,6 @@ Capabilities:
 
 
 ![LLM](https://github.com/ManoBharathi93/Multi-Modal_LLM/assets/88357044/37f2cd9b-0241-447a-95fe-98cef0ad84e8)
+
+Ping me to know more about this project:
+immanobharathi21@gmail.com
